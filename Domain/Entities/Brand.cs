@@ -1,4 +1,4 @@
-﻿
+﻿using Core.Persistence.Repositories;
 namespace Domain.Entities;
 
 public class Brand : Entity<Guid>
